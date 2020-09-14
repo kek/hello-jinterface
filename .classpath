@@ -35,5 +35,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="lib/jinterface/OtpErlang.jar" sourcepath="lib/jinterface/java_src"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
